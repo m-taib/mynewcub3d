@@ -1,0 +1,7 @@
+/home/mtaib/Desktop/mergedcub/42mx/build/CMakeFiles/mlx42.dir
+/home/mtaib/Desktop/mergedcub/42mx/build/CMakeFiles/edit_cache.dir
+/home/mtaib/Desktop/mergedcub/42mx/build/CMakeFiles/rebuild_cache.dir
+/home/mtaib/Desktop/mergedcub/42mx/build/CMakeFiles/list_install_components.dir
+/home/mtaib/Desktop/mergedcub/42mx/build/CMakeFiles/install.dir
+/home/mtaib/Desktop/mergedcub/42mx/build/CMakeFiles/install/local.dir
+/home/mtaib/Desktop/mergedcub/42mx/build/CMakeFiles/install/strip.dir
